@@ -1,0 +1,113 @@
+{
+  "configVersion": 1,
+  "timestamp": 1680423757989,
+  "index": "/gamepad-and-comics/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/gamepad-and-comics/130.c80ccea86f057a3b.js",
+        "/gamepad-and-comics/159.01b87a38c0ed57b1.js",
+        "/gamepad-and-comics/735.373b346c243add0c.js",
+        "/gamepad-and-comics/favicon.ico",
+        "/gamepad-and-comics/index.html",
+        "/gamepad-and-comics/main.b50821eb1394c91a.js",
+        "/gamepad-and-comics/manifest.webmanifest",
+        "/gamepad-and-comics/polyfills.22bfc11e7115fedb.js",
+        "/gamepad-and-comics/runtime.30d263d6d8469666.js",
+        "/gamepad-and-comics/styles.449eed172af4a8a1.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/gamepad-and-comics/assets/i18n/de.json",
+        "/gamepad-and-comics/assets/i18n/en.json",
+        "/gamepad-and-comics/assets/i18n/es.json",
+        "/gamepad-and-comics/assets/i18n/fr.json",
+        "/gamepad-and-comics/assets/i18n/hu.json",
+        "/gamepad-and-comics/assets/i18n/it.json",
+        "/gamepad-and-comics/assets/i18n/ja.json",
+        "/gamepad-and-comics/assets/i18n/ko.json",
+        "/gamepad-and-comics/assets/i18n/pt.json",
+        "/gamepad-and-comics/assets/i18n/ru.json",
+        "/gamepad-and-comics/assets/i18n/tr.json",
+        "/gamepad-and-comics/assets/i18n/zh.json",
+        "/gamepad-and-comics/assets/icons/icon-128x128.png",
+        "/gamepad-and-comics/assets/icons/icon-144x144.png",
+        "/gamepad-and-comics/assets/icons/icon-152x152.png",
+        "/gamepad-and-comics/assets/icons/icon-192x192.png",
+        "/gamepad-and-comics/assets/icons/icon-384x384.png",
+        "/gamepad-and-comics/assets/icons/icon-512x512.png",
+        "/gamepad-and-comics/assets/icons/icon-72x72.png",
+        "/gamepad-and-comics/assets/icons/icon-96x96.png",
+        "/gamepad-and-comics/assets/zip/dist.zip"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/gamepad-and-comics/130.c80ccea86f057a3b.js": "c787ff5af1eea69625e34e1cd728ef918fbe1053",
+    "/gamepad-and-comics/159.01b87a38c0ed57b1.js": "d7239690757cfa20e28174dc8e30b5298baf4dd1",
+    "/gamepad-and-comics/735.373b346c243add0c.js": "1be8a57428063a11966e1681bab566ab26b22285",
+    "/gamepad-and-comics/assets/i18n/de.json": "b4ed385e2cc2f72c522029c13e1d9e264518a0c6",
+    "/gamepad-and-comics/assets/i18n/en.json": "b129547271deddae4a371c8a6b8935337554c02e",
+    "/gamepad-and-comics/assets/i18n/es.json": "e287b2cc5d4ff0cadb2f23a710a77b5412ad0f78",
+    "/gamepad-and-comics/assets/i18n/fr.json": "c826224de3f95744b94d1a6c7891038450cba2dd",
+    "/gamepad-and-comics/assets/i18n/hu.json": "4a95f24f7332ec1f27dce1feb42514e18633708d",
+    "/gamepad-and-comics/assets/i18n/it.json": "4086610f93b9e5eba5c450db5f5e6edf7a63306c",
+    "/gamepad-and-comics/assets/i18n/ja.json": "89dcdcd9feed9056aeb90ef9d15b02a2f3b8754c",
+    "/gamepad-and-comics/assets/i18n/ko.json": "14ff180fc04ecf02ea17d62c58a58a532e65379a",
+    "/gamepad-and-comics/assets/i18n/pt.json": "cfdcd4ea48692b2cc6299e504c294f55b397875c",
+    "/gamepad-and-comics/assets/i18n/ru.json": "b9e541e833fa91124698919b1ab3f03be0ed58ff",
+    "/gamepad-and-comics/assets/i18n/tr.json": "fc51b172d3778aeb407136ce3f095ad66a7a8444",
+    "/gamepad-and-comics/assets/i18n/zh.json": "a803f8ef879c855b7f307f5825429f79651af98c",
+    "/gamepad-and-comics/assets/icons/icon-128x128.png": "d4516c0b955c313f14b94e0a3fdc6bb96363162b",
+    "/gamepad-and-comics/assets/icons/icon-144x144.png": "4c0e0331f44e1f8a0c6033f9d20eb24617541b17",
+    "/gamepad-and-comics/assets/icons/icon-152x152.png": "1b584aec8fcf4aac07dc8c3f7c416c5ad04f4996",
+    "/gamepad-and-comics/assets/icons/icon-192x192.png": "a0bfc2877b604c07bddd7d4c0bc7c8106caf2f02",
+    "/gamepad-and-comics/assets/icons/icon-384x384.png": "25b8eaaad5417bdb7367c645e74e18d158419ecc",
+    "/gamepad-and-comics/assets/icons/icon-512x512.png": "8a5768205dce96c5c51a9eb711b574287ff44902",
+    "/gamepad-and-comics/assets/icons/icon-72x72.png": "49b0862c751054f09349a1bae026809aa1f4d7a7",
+    "/gamepad-and-comics/assets/icons/icon-96x96.png": "e925b2d5bacf08b07f2331142d23e4f20797c85c",
+    "/gamepad-and-comics/assets/zip/dist.zip": "8c26a06a9e4f76e585efa7bd016207bcbac9d1e7",
+    "/gamepad-and-comics/favicon.ico": "2ae48b5d996342712800fa187b4fabe8b9710f05",
+    "/gamepad-and-comics/index.html": "4dcb68d17c329cc04641548f1bf733b0e7705797",
+    "/gamepad-and-comics/main.b50821eb1394c91a.js": "f37f973bae5084a5698fad2d574bb1355a6cd63f",
+    "/gamepad-and-comics/manifest.webmanifest": "887736e02183fd735faa9b4a54b19475e674749a",
+    "/gamepad-and-comics/polyfills.22bfc11e7115fedb.js": "ce313d8103cc1129339086fd3bb5e6c3da58db7e",
+    "/gamepad-and-comics/runtime.30d263d6d8469666.js": "dc7fcf343046b1f9a800786ba251b70409f45340",
+    "/gamepad-and-comics/styles.449eed172af4a8a1.css": "d2f5a71366ea55c54fdc923a265ff0b88d985733"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
