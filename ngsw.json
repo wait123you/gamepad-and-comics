@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1680836644802,
+  "timestamp": 1681360223181,
   "index": "/gamepad-and-comics/index.html",
   "assetGroups": [
     {
@@ -16,11 +16,11 @@
         "/gamepad-and-comics/735.373b346c243add0c.js",
         "/gamepad-and-comics/favicon.ico",
         "/gamepad-and-comics/index.html",
-        "/gamepad-and-comics/main.595d9e9f36b712c2.js",
+        "/gamepad-and-comics/main.e45ec918c813544b.js",
         "/gamepad-and-comics/manifest.webmanifest",
         "/gamepad-and-comics/polyfills.22bfc11e7115fedb.js",
         "/gamepad-and-comics/runtime.30d263d6d8469666.js",
-        "/gamepad-and-comics/styles.122fcd9fdff808d0.css"
+        "/gamepad-and-comics/styles.de67784d317486e9.css"
       ],
       "patterns": []
     },
@@ -81,8 +81,7 @@
         "/gamepad-and-comics/assets/sound/nintendo_switch/tick.wav",
         "/gamepad-and-comics/assets/sound/nintendo_switch/turnoff.wav",
         "/gamepad-and-comics/assets/sound/nintendo_switch/turnon.wav",
-        "/gamepad-and-comics/assets/sound/nintendo_switch/user.wav",
-        "/gamepad-and-comics/assets/zip/dist.zip"
+        "/gamepad-and-comics/assets/sound/nintendo_switch/user.wav"
       ],
       "patterns": []
     }
@@ -92,18 +91,18 @@
     "/gamepad-and-comics/130.c80ccea86f057a3b.js": "c787ff5af1eea69625e34e1cd728ef918fbe1053",
     "/gamepad-and-comics/159.01b87a38c0ed57b1.js": "d7239690757cfa20e28174dc8e30b5298baf4dd1",
     "/gamepad-and-comics/735.373b346c243add0c.js": "1be8a57428063a11966e1681bab566ab26b22285",
-    "/gamepad-and-comics/assets/i18n/de.json": "b4ed385e2cc2f72c522029c13e1d9e264518a0c6",
-    "/gamepad-and-comics/assets/i18n/en.json": "6bc53eed3cf21016b51f11a022f7f6f2047167ce",
-    "/gamepad-and-comics/assets/i18n/es.json": "e287b2cc5d4ff0cadb2f23a710a77b5412ad0f78",
-    "/gamepad-and-comics/assets/i18n/fr.json": "c826224de3f95744b94d1a6c7891038450cba2dd",
-    "/gamepad-and-comics/assets/i18n/hu.json": "4a95f24f7332ec1f27dce1feb42514e18633708d",
-    "/gamepad-and-comics/assets/i18n/it.json": "4086610f93b9e5eba5c450db5f5e6edf7a63306c",
-    "/gamepad-and-comics/assets/i18n/ja.json": "89dcdcd9feed9056aeb90ef9d15b02a2f3b8754c",
-    "/gamepad-and-comics/assets/i18n/ko.json": "14ff180fc04ecf02ea17d62c58a58a532e65379a",
-    "/gamepad-and-comics/assets/i18n/pt.json": "cfdcd4ea48692b2cc6299e504c294f55b397875c",
-    "/gamepad-and-comics/assets/i18n/ru.json": "b9e541e833fa91124698919b1ab3f03be0ed58ff",
-    "/gamepad-and-comics/assets/i18n/tr.json": "fc51b172d3778aeb407136ce3f095ad66a7a8444",
-    "/gamepad-and-comics/assets/i18n/zh.json": "d290c21461e339919e7ae91d1436b4c4f33e2f3b",
+    "/gamepad-and-comics/assets/i18n/de.json": "55e8940c1345fbcbf47041c0ca468cb2cf96765a",
+    "/gamepad-and-comics/assets/i18n/en.json": "d0ad8fb6781609bab7f15bd5e635d0479610dae3",
+    "/gamepad-and-comics/assets/i18n/es.json": "3eb1bf7399d63e8ce43de70a9618b261b6b5555f",
+    "/gamepad-and-comics/assets/i18n/fr.json": "c062ee51c3d94c23565382da383e4d24d158ebd1",
+    "/gamepad-and-comics/assets/i18n/hu.json": "65b6f24bf4fac185693d6ffa1c803f63b876ee6c",
+    "/gamepad-and-comics/assets/i18n/it.json": "9b6da5cee0d6b47d0f6ae16d0a280743447c252a",
+    "/gamepad-and-comics/assets/i18n/ja.json": "6d8bf7575f8e1220d46239d2f71d7634e975024b",
+    "/gamepad-and-comics/assets/i18n/ko.json": "c335c7329b514b6a553f3d4eb6d8e03bbc44f787",
+    "/gamepad-and-comics/assets/i18n/pt.json": "55d7a6ee8551882fcdc0f43e41592ee345c414b2",
+    "/gamepad-and-comics/assets/i18n/ru.json": "edc63ea49551155bee2ff3312ac184963aff51f5",
+    "/gamepad-and-comics/assets/i18n/tr.json": "03d166c47828f89189984e771eaa4191d9c2a026",
+    "/gamepad-and-comics/assets/i18n/zh.json": "a3ef138da5e9f2830b5a26e4d472384ef64d5a93",
     "/gamepad-and-comics/assets/icons/icon-128x128.png": "d4516c0b955c313f14b94e0a3fdc6bb96363162b",
     "/gamepad-and-comics/assets/icons/icon-144x144.png": "4c0e0331f44e1f8a0c6033f9d20eb24617541b17",
     "/gamepad-and-comics/assets/icons/icon-152x152.png": "1b584aec8fcf4aac07dc8c3f7c416c5ad04f4996",
@@ -142,14 +141,13 @@
     "/gamepad-and-comics/assets/sound/nintendo_switch/turnoff.wav": "5ae8a7abb1f656fa6bfe3740f3b36f186a624044",
     "/gamepad-and-comics/assets/sound/nintendo_switch/turnon.wav": "507578f7cbb8f99f7dbf3d6eb52c72a3943fa11e",
     "/gamepad-and-comics/assets/sound/nintendo_switch/user.wav": "504ea8b0699e21d082f20abbd87397ef9375567f",
-    "/gamepad-and-comics/assets/zip/dist.zip": "8c26a06a9e4f76e585efa7bd016207bcbac9d1e7",
     "/gamepad-and-comics/favicon.ico": "2ae48b5d996342712800fa187b4fabe8b9710f05",
-    "/gamepad-and-comics/index.html": "82312479e6844c9ee2294846d6d70479ad2cffb2",
-    "/gamepad-and-comics/main.595d9e9f36b712c2.js": "65ee71403dbcb36c9ddb58490fe2b0c97b3b343e",
+    "/gamepad-and-comics/index.html": "3aea00278b8f3a30734197386545aa169fbb695f",
+    "/gamepad-and-comics/main.e45ec918c813544b.js": "69cf5e91b81afd2b433b73b67d990f7935f00e55",
     "/gamepad-and-comics/manifest.webmanifest": "887736e02183fd735faa9b4a54b19475e674749a",
     "/gamepad-and-comics/polyfills.22bfc11e7115fedb.js": "ce313d8103cc1129339086fd3bb5e6c3da58db7e",
     "/gamepad-and-comics/runtime.30d263d6d8469666.js": "dc7fcf343046b1f9a800786ba251b70409f45340",
-    "/gamepad-and-comics/styles.122fcd9fdff808d0.css": "48a9340287bf6ceee1aa8448d06e94b464ff58f5"
+    "/gamepad-and-comics/styles.de67784d317486e9.css": "2e16124da5fcd95e922f16f1a46e98b7dcdbb3a9"
   },
   "navigationUrls": [
     {

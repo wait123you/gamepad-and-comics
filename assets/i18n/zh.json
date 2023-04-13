@@ -41,9 +41,9 @@
   "single_page": "单页",
   "hide_cursor": "隐藏游标",
   "show_cursor": "显示游标",
-  "close_the_handle": "关闭手柄",
+  "close_the_gamepad": "关闭手柄",
   "sliding_direction": "滑动方向",
-  "handle_and_comics": "手柄与漫画",
+  "gamepad_and_comics": "手柄与漫画",
   "sponsored_author": "赞助作者",
   "insert_page": "插页",
   "before": "前",
@@ -70,5 +70,8 @@
   "no": "否",
   "close":"关闭",
   "sound":"音效",
-  "open":"打开"
+  "open":"打开",
+  "automatic_page_turning":"自动翻页",
+  "reset_reading_progress":"重置阅读进度",
+  "reset":"重置"
 }
